@@ -1,0 +1,32 @@
+{
+  "name": "generator-deli-line",
+  "version": "0.0.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "NominalAeon/generator-deli-line",
+  "author": {
+    "name": "Noah Rodenbeek",
+    "email": "noah@drawnbymouse.com",
+    "url": "https://github.com/nominalaeon"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "bower": "^1.4.1",
+    "chalk": "^1.0.0",
+    "grunt": "^0.4.5",
+    "yeoman-generator": "^0.19.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
