@@ -49,23 +49,3 @@ What is FrenchDip.js, you ask? FrenchDip.js is an encapsulation system that take
 For instance, let's say you had two '.example'-classed elements on one page. Well, crumbs, now that $('.example').on('click') is unconditionally bound to both of my example elements, right? Wrong-o, dipshit. With FrenchDip.js installed, each instance of a defined selector gets its own instance of a component's script.
 
 So now you can rest easy as FrenchDip.js lovingly caresses each and every prescribed element on your page as if it were the center of its universe. Which it technically is. The super-condensed, vacuous center that consumes its every waking moment with nightmarish visions of the inevitable void.
-                                             /     \      /
-                                            (       )    (
-                                             )     /      )
-                                            /     (      /
-                    _.---._              ____________________
-            _.-~               ~-._   |( ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  );
-    _.-~                               \ ——————————————:::—— /
- .-~                                    _.;::/::: ; ::::::: /
- :-._                               _.-~ ./::::::: ; ::::::|
- `-._~-._                   _..__.-~ _.-~|::/::::: ; ::::::|
-  /  ~-._~-._              / .__..--~----.YWWWWWWWWWWWWWWWP'
- \_____(_;-._\.        _.-~_/       ~).. . \
-    /(_____  \`--...--~_.-~______..-+_______)
-  .(_________/`--...--~/    _/           /\
- /-._     \_     (___./_..-~__.....__..-~./
- `-._~-._   ~\--------~  .-~_..__.-~ _.-~
-     ~-._~-._ ~---------'  / .__..--~
-         ~-._\.        _.-~_/
-             \`--...--~_.-~
-              `--...--~
